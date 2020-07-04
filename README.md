@@ -19,7 +19,6 @@ Simpliest Vue application with 3 pages:
 * Dactylorhiza maculata
 * Dactylorhiza ochroleuca
  content to be uploaded to FTP server.
-```
 ## Repositories
 * https://github.com/orhidee/vue-orchid - Vue project.
 * https://github.com/orhidee/orhidee.github.io - Github pages for current project generated from dist folder.
