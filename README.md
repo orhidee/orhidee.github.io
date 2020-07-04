@@ -1,7 +1,9 @@
-# vue-orchid
-## Vue for Orchids
+# orhidee.github.io
+## Käpalised.com
 Github pages for current project generated from dist folder.
-
+Website is published to:
+* https://käpalised.com
+* https://orhidee.github.io
 ## Releases
 ### v0.1.0
 Simpliest Vue application with 3 pages:
